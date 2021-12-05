@@ -1,0 +1,17 @@
+D:\PROGRAMOWANIE\C#\projekty\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+D:\PROGRAMOWANIE\C#\projekty\Snake\obj\Debug\MainWindow.g.cs
+D:\PROGRAMOWANIE\C#\projekty\Snake\obj\Debug\Tile.g.cs
+D:\PROGRAMOWANIE\C#\projekty\Snake\obj\Debug\App.g.cs
+D:\PROGRAMOWANIE\C#\projekty\Snake\obj\Debug\Snake_MarkupCompile.cache
+D:\PROGRAMOWANIE\C#\projekty\Snake\obj\Debug\Snake_MarkupCompile.lref
+D:\PROGRAMOWANIE\C#\projekty\Snake\bin\Debug\Snake.exe.config
+D:\PROGRAMOWANIE\C#\projekty\Snake\bin\Debug\Snake.exe
+D:\PROGRAMOWANIE\C#\projekty\Snake\bin\Debug\Snake.pdb
+D:\PROGRAMOWANIE\C#\projekty\Snake\obj\Debug\MainWindow.baml
+D:\PROGRAMOWANIE\C#\projekty\Snake\obj\Debug\Tile.baml
+D:\PROGRAMOWANIE\C#\projekty\Snake\obj\Debug\Snake.g.resources
+D:\PROGRAMOWANIE\C#\projekty\Snake\obj\Debug\Snake.Properties.Resources.resources
+D:\PROGRAMOWANIE\C#\projekty\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+D:\PROGRAMOWANIE\C#\projekty\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\PROGRAMOWANIE\C#\projekty\Snake\obj\Debug\Snake.exe
+D:\PROGRAMOWANIE\C#\projekty\Snake\obj\Debug\Snake.pdb
